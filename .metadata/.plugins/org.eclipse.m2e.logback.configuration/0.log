@@ -1,0 +1,12 @@
+2017-08-08 18:20:03,993 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-08 18:20:03,996 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/chiranjithsrai/workspace/Duke-with-jar/document-deduplicate/src/main/resources
+2017-08-08 18:20:03,998 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-08 18:20:03,998 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/chiranjithsrai/workspace/Duke-with-jar/document-deduplicate/src/test/resources
+2017-08-08 18:20:08,992 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-08 18:20:08,996 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/chiranjithsrai/workspace/Duke-with-jar/document-deduplicate/src/main/resources
+2017-08-08 18:20:08,999 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-08 18:20:08,999 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/chiranjithsrai/workspace/Duke-with-jar/document-deduplicate/src/test/resources
+2017-08-08 18:20:15,263 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-08 18:20:15,264 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/chiranjithsrai/workspace/Duke-with-jar/document-deduplicate/src/main/resources
+2017-08-08 18:20:15,264 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-08 18:20:15,264 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/chiranjithsrai/workspace/Duke-with-jar/document-deduplicate/src/test/resources
