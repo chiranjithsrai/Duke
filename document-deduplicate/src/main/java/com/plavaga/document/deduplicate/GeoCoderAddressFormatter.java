@@ -18,7 +18,7 @@ import java.net.URLEncoder;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-public class LatitudeAndLongitudeWithPincode {
+public class GeoCoderAddressFormatter {
 
 	public static void main(String[] args) {
 
