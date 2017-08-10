@@ -30,11 +30,11 @@ public class PhoneNumberFormatter {
 		format(number, countryIso);
 
 		number = "+44 7700 900464";
-		countryIso = "BR";
+		countryIso = "GB";
 
 		format(number, countryIso);
 
-		number = "7700 900464";
+		number = "00 44 7700 900464";
 		format(number, countryIso);
 
 		number = "7700900464";
@@ -50,11 +50,15 @@ public class PhoneNumberFormatter {
 		PhoneNumberUtil util = PhoneNumberUtil.getInstance();
 		try {
 			PhoneNumber pn = util.parse(number, countryIso);
-			System.out.println("\nInput :" + number);
-			System.out.println("\nCountry code :" + pn.getCountryCode());
+
+			System.out.println("\nInput :");
+			System.out.println("Number :" + number);
+			System.out.println("countryIso :" + countryIso);
+
+			System.out.println("\nOutput :");
+			System.out.println("Country code :" + pn.getCountryCode());
 			System.out.println("National Number :" + pn.getNationalNumber());
 			System.out.println("Raw Output :" + pn);
-
 			System.out.println("==============================");
 		}
 		catch (NumberParseException e) {
